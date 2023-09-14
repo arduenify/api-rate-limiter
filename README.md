@@ -2,6 +2,8 @@
 
 ## Overview
 
+NPM Package Link: <https://www.npmjs.com/package/async-sqlite-rate-limiter>
+
 This is a rate limiting middleware for Express applications using SQLite as a storage engine. It helps protect your application from abuse by limiting the number of requests that can be made from an IP address in a given time window.
 
 ## Features
