@@ -1,0 +1,12 @@
+{
+    "dependencies": {
+        "sqlite3": "^5.1.6"
+    },
+    "name": "async-sqlite-rate-limiter",
+    "version": "1.0.0",
+    "description": "A simple rate limiter for Express.js apps",
+    "main": "rateLimiter.js",
+    "scripts": {},
+    "author": "Adam Scoggins",
+    "license": "MIT"
+}
