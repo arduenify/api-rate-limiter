@@ -30,7 +30,9 @@ The `createRateLimiter` function accepts an options object with the properties:
 This middleware sets the following headers on all responses:
 
 `X-RateLimit-Limit`: The maximum number of requests allowed in a time window
+
 `X-RateLimit-Remaining`: The number of requests remaining in the current time window
+
 `X-RateLimit-Reset`: The time (in seconds) until the time window resets.
 
 ## Contributing
